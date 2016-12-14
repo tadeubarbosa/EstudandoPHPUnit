@@ -1,0 +1,18 @@
+{
+    "name": "tadeu/estudo-php-unit",
+    "authors": [
+        {
+            "name": "Tadeu Barbosa",
+            "email": "tadeufbarbosa@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "": "src/"
+        },
+        "files": [
+            "src/data/connection.php"
+        ]
+    },
+    "require": {}
+}
